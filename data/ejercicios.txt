@@ -1,0 +1,80 @@
+E001;Trote suave;Cardiovascular;Básico;30;Trote constante a ritmo bajo;0
+E002;Escaladoras suaves;Cardiovascular;Básico;12;Mantener el ritmo sin agitarse demasiado;0
+E003;Jumping Jacks;Cardiovascular;Básico;10;3 series de 2 minutos sin parar;0
+E004;Caminata a paso ligero;Cardiovascular;Básico;20;Mantener ritmo constante en cinta;0
+E005;Aerobox basico;Cardiovascular;Básico;15;Movimientos guiados de puños sin impacto;0
+E006;Baile entretenido;Cardiovascular;Básico;30;Seguir el ritmo de la musica de forma fluida;0
+E007;Salto de tijera suave;Cardiovascular;Básico;10;Coordinacion de brazos y piernas sin saltar alto;0
+E008;Taloneo gluteo;Cardiovascular;Básico;12;Llevar talones al gluteo de forma alternada;0
+E009;Elevacion de rodillas baja;Cardiovascular;Básico;15;Elevar rodillas a la altura de la cadera suave;0
+E010;Patinador sin salto;Cardiovascular;Básico;12;Desplazamiento lateral imitando patinaje;0
+E011;Plancha Abdominal;Fuerza;Básico;10;3 series de 1 minuto manteniendo postura recta;0
+E012;Flexiones de Brazo;Fuerza;Básico;15;3 series al fallo técnico;0
+E013;Sentadilla asistida;Fuerza;Básico;12;Utilizar apoyo para bajar controladamente;0
+E014;Puente de gluteo;Fuerza;Básico;15;Elevar la pelvis manteniendo contraccion arriba;0
+E015;Extension de triceps con banda;Fuerza;Básico;10;Extender brazos hacia atras con resistencia leve;0
+E016;Curl de biceps ligero;Fuerza;Básico;12;Flexion de codo controlada manteniendo postura;0
+E017;Elevaciones laterales ligeras;Fuerza;Básico;10;Elevar brazos a los lados hasta la altura del hombro;0
+E018;Flexiones en pared;Fuerza;Básico;12;Apoyar manos en la pared y realizar flexiones;0
+E019;Plancha lateral sobre rodillas;Fuerza;Básico;10;Mantener alineacion apoyando rodillas y antebrazo;0
+E020;Zancada corta estatica;Fuerza;Básico;15;Mantener flexion de piernas controlada sin avanzar;0
+E021;Natación;Cardiovascular;Intermedio;40;Estilo crol a ritmo moderado constante;0
+E022;Saltar la Cuerda;Cardiovascular;Intermedio;15;Saltos continuos con variaciones de pies;0
+E023;Remo en Máquina;Cardiovascular;Intermedio;25;Ritmo constante de 500m cada 2 minutos;0
+E024;Spinning moderado;Cardiovascular;Intermedio;30;Pedaleo con resistencia variable en ruta;0
+E025;Trote con cambios de ritmo;Cardiovascular;Intermedio;25;Alternar trote suave con aceleraciones;0
+E026;Circuito HIIT basico;Cardiovascular;Intermedio;20;4 ejercicios en estaciones de 30 segundos;0
+E027;Subir escaleras;Cardiovascular;Intermedio;15;Ascenso continuo a ritmo constante;0
+E028;Saltos del payaso intensos;Cardiovascular;Intermedio;12;Saltos rapidos coordinados con braceo;0
+E029;Burpees modificados;Cardiovascular;Intermedio;15;Burpees sin realizar la flexion en el suelo;0
+E030;Bicicleta estatica intensa;Cardiovascular;Intermedio;30;Pedaleo de alta cadencia con resistencia media;0
+E031;Sentadillas;Fuerza;Intermedio;15;4 series de 12 repeticiones;0
+E032;Press Banca;Fuerza;Intermedio;10;3 series de 10 repeticiones;0
+E033;Zancadas;Fuerza;Intermedio;15;4 series de 15 repeticiones por pierna;0
+E034;Flexiones de brazo completas;Fuerza;Intermedio;12;Flexion profunda tocando el suelo con el pecho;0
+E035;Remo con mancuernas;Fuerza;Intermedio;15;Traccion hacia la cadera manteniendo espalda recta;0
+E036;Press de hombros;Fuerza;Intermedio;12;Empuje vertical desde la altura de las orejas;0
+E037;Fondos en banco;Fuerza;Intermedio;15;Flexion de brazos apoyando manos en banca trasera;0
+E038;Paseo del granjero moderado;Fuerza;Intermedio;10;Caminar manteniendo cargas medias a los costados;0
+E039;Abdominales crunch con carga;Fuerza;Intermedio;15;Contraccion abdominal sosteniendo disco ligero;0
+E040;Sentadilla Goblet;Fuerza;Intermedio;15;Sentadilla profunda con peso en el centro del pecho;0
+E041;Bicicleta Avanzada;Cardiovascular;Avanzado;45;Intervalos de alta intensidad;0
+E042;Boxeo Saco;Cardiovascular;Avanzado;30;Rounds de 3 minutos con 1 de descanso;0
+E043;Carrera de montaña;Cardiovascular;Avanzado;40;Trote en terreno inclinado y superficies irregulares;0
+E044;Circuito Tabata cardio;Cardiovascular;Avanzado;16;8 rondas de 20s maximo esfuerzo y 10s descanso;0
+E045;Saltar la cuerda doble salto;Cardiovascular;Avanzado;15;Pasar la cuerda dos veces por cada salto;0
+E046;Natacion velocidad;Cardiovascular;Avanzado;30;Series de 50 metros a maxima velocidad;0
+E047;Remo olimpico intenso;Cardiovascular;Avanzado;25;Simulacion de regata con alta resistencia;0
+E048;Saltos al cajon;Cardiovascular;Avanzado;15;Saltos pliometricos a plataforma de 60cm;0
+E049;Sprint en subida;Cardiovascular;Avanzado;12;Piques de velocidad en pendiente pronunciada;0
+E050;Gimnasia aerobica avanzada;Cardiovascular;Avanzado;20;Rutina coreografiada de alta exigencia;0
+E051;Press Militar;Fuerza;Avanzado;20;4 series de 10 repeticiones con barra;0
+E052;Remo con Barra;Fuerza;Avanzado;20;4 series de 12 repeticiones cuidando la espalda;0
+E053;Fondos en Paralelas;Fuerza;Avanzado;15;3 series de 12 repeticiones enfocadas en tríceps;0
+E054;Sentadilla trasera pesada;Fuerza;Avanzado;20;4 series de 6 repeticiones al 80 por ciento RM;0
+E055;Press Banca inclinado;Fuerza;Avanzado;15;4 series de 8 repeticiones con barra olimpica;0
+E056;Peso muerto rumano;Fuerza;Avanzado;18;Enfoque en isquiotibiales con carga controlada;0
+E057;Dominadas con lastre;Fuerza;Avanzado;12;Dominadas agregando peso en cinturon;0
+E058;Paseo del granjero avanzado;Fuerza;Avanzado;10;Desplazamiento con mancuernas de alto tonelaje;0
+E059;Zancadas con barra;Fuerza;Avanzado;15;Zancadas dinamicas con barra sobre los hombros;0
+E060;Abdominales colgado;Fuerza;Avanzado;12;Elevar piernas completamente estiradas hasta la barra;0
+E061;Burpees Extremos;Cardiovascular;Alto rendimiento;20;Máxima velocidad durante 1 minuto por 30s de descanso;0
+E062;Sprint 100m;Cardiovascular;Alto rendimiento;10;8 piques de velocidad máxima con descanso;0
+E063;HIIT Extremo de 5 estaciones;Cardiovascular;Alto rendimiento;25;Trabajo continuo sin pausas intra serie;0
+E064;Sprint en Arena;Cardiovascular;Alto rendimiento;15;Piques de velocidad en superficie de arena blanda;0
+E065;Assault Bike extrema;Cardiovascular;Alto rendimiento;10;Intervalos de potencia maxima en bicicleta de aire;0
+E066;Subida de cuerda militar;Cardiovascular;Alto rendimiento;15;Ascenso vertical de 5 metros usando solo brazos;0
+E067;Circuito Crossfit de cardio;Cardiovascular;Alto rendimiento;30;Combinacion de remo carrera y saltos continuos;0
+E068;Carrera con chaleco lastrado;Cardiovascular;Alto rendimiento;20;Trote de velocidad con 10kg adicionales;0
+E069;Saltos pliometricos continuos;Cardiovascular;Alto rendimiento;12;Saltos de alta intensidad sobre multiples cajones;0
+E070;Subida de cerro cronometrada;Cardiovascular;Alto rendimiento;45;Ascenso a ritmo de competencia de alta montana;0
+E071;Peso Muerto Maximo;Fuerza;Alto rendimiento;25;5 series de 5 repeticiones con carga máxima;0
+E072;Dominadas;Fuerza;Alto rendimiento;15;4 series al máximo de repeticiones posibles;0
+E073;Snatch olimpico;Fuerza;Alto rendimiento;20;Levantamiento tecnico desde el suelo sobre la cabeza;0
+E074;Clean and Jerk;Fuerza;Alto rendimiento;25;Cargada y envion con barra de alta competencia;0
+E075;Sentadilla frontal potencia;Fuerza;Alto rendimiento;15;4 series de 3 repeticiones con 90 por ciento RM;0
+E076;Press Banca potencia;Fuerza;Alto rendimiento;15;Series de velocidad con cargas supra maximas;0
+E077;Peso Muerto deficit;Fuerza;Alto rendimiento;20;Traccion desde plataforma elevada para mayor rango;0
+E078;Flexiones parada de manos;Fuerza;Alto rendimiento;12;Flexiones verticales apoyado contra la pared;0
+E079;Muscle up en anillas;Fuerza;Alto rendimiento;10;Traccion y transicion olimpica en anillas;0
+E080;Sentadilla bulgara pesada;Fuerza;Alto rendimiento;15;Trabajo unilateral con maxima sobrecarga;0
